@@ -1,10 +1,6 @@
 ---
-title: "Code In Place Section Leader"
+title: "Neural Network Quantization and Distillation"
 
 date: "2018-05-18"
-
-links:
-    website: 'https://github.com/hadisinaee/avicenna'
-    alias: link_name_here
 ---
 

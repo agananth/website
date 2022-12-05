@@ -1,18 +1,21 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Enhancing Self-Consistency and Performance of Pre-Trained Language
+Models through Natural Language Inference"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- Eric Mitchell
+- Joseph J Noh
+- Siyan Li
+- William S Armstrong
+- Ananth Agarwal
+- Patrick Liu
+- Chelsea Finn
+- Christopher D Manning
 
-publication: "Journal of Machine Learning"
+publication: "EMNLP Oral (<4% submitted papers), 2022"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
-
+    arxiv: https://arxiv.org/abs/2211.11875
+    website: https://ericmitchell.ai/emnlp-2022-concord/
 ---
 
 

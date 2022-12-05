@@ -8,7 +8,7 @@ content_type: "projects"
 section_settings:
     show_section: true
     title: ''
-    subtitle: 'Custom Subtitle: see my github for the complete list'
+    subtitle: 'Outside work, I am currently working on several ML projects. Please see my CV for full details.'
 ---
 
 home/projects.md
