@@ -13,7 +13,7 @@ blog: false
 socials:
     github: "agananth"
     linkedin: "ananthagarwal"
-    google_scholar: "citations?user=Tu8gQjQAAAAJ&hl=en"
+    google_scholar: "citations?user=gqHh87IAAAAJ&hl=en"
 
 interests:
     - Natural Language Processing
