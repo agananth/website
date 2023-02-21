@@ -42,7 +42,9 @@ academia:
         end_date: '2019'
 ---
 
-I am a software engineer at Google, where I work in Core Machine Learning on LaMDA training and serving infrastructure and enhancing model interpretability and trustworthiness.
+I am a software engineer at Google in Core Machine Learning. For just under a year, I worked on [LaMDA](https://blog.google/technology/ai/lamda/) (Language Model for Dialog Applications) training and serving infrastructure and enhancing model interpretability and trustworthiness. My projects have contributed towards the [Bard announcement](https://blog.google/technology/ai/bard-google-ai-search-updates/) and upcoming launch.
+
+Recently I have started working on dual encoder models for retrieval tasks, which was explored in [this paper](https://arxiv.org/abs/2112.07899). The foundational code is available on GitHub [here](https://github.com/google-research/t5x_retrieval).
 
 I have both ML research and industry experience. My career goal is to work at bridging the two: apply cutting-edge ML research innovations to solve real-world problems that improve human wellbeing.
 This [MIT Technology Review opinion article](https://www.technologyreview.com/2020/08/18/1007196/ai-research-machine-learning-applications-problems-opinion/), which highlights that many AI researchers

@@ -16,7 +16,7 @@ news_items:
 - text: "Discover"
   link: https://9to5google.com/2021/02/11/android-tv-discover-tab-homescreen-update/
 - text: "Personalized Ambient"
-  link: https://https://feathericons.com//
+  link: https://9to5google.com/2022/06/10/google-tv-screensaver-proactive/
 - text: "Live TV Favorite Channels"
-  link: "https://9to5google.com/2022/05/03/google-tv-favorite-channels-live/"
+  link: https://9to5google.com/2022/05/03/google-tv-favorite-channels-live/
 ---
